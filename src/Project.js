@@ -8,7 +8,7 @@ function Project() {
   return (
     <div className="project component__space" id="Portfolio">
       <div className="heading">
-        <h1 className="heading">My Project</h1>
+        <h1 className="heading">My Projects</h1>
         <p className="heading p__color">
         What i maked
         </p>
@@ -27,9 +27,11 @@ function Project() {
                      <h4 className="project__text">Mordern Eyeglasses</h4>
                      <p className="project__text">This is a full-stack website build with MERN
                         An authenticated admin see all user bookings, change status, delete
-                        and add a products and make a new admin
+                        and add a products and make a new admin.
                         </p>
-                     <a href="https://mordern-eyeglasses.web.app/" className="project__btn">View Details</a>
+                     <a href="https://mordern-eyeglasses.web.app/" className="project__btn">Live Site</a>
+                     <br/>
+                     <a href="https://github.com/NISHE-SHOHA/eyeglasses-client" className="project__btn">Source Code</a>
                      </div>
                  </div>
              </div>
@@ -49,7 +51,9 @@ function Project() {
                         On this website, there are dynamic service section
                         A user can sign in using google to book a service click a Buy
                         Now Button</p>
-                     <a href="https://freash-flowers.web.app/" className="project__btn">View Details</a>
+                     <a href="https://freash-flowers.web.app/" className="project__btn">Live Site</a>
+                     <br/>
+                     <a href="https://github.com/NISHE-SHOHA/floral-design-client" className="project__btn">Source Code</a>
                      </div>
                  </div>
              </div>
@@ -68,7 +72,9 @@ function Project() {
                      <p className="project__text">Its a Fitness Related Website
                         Users Can Buy a Pakege From Here For The Training
                         They Select Their Choice And Join To The Course</p>
-                     <a href=" https://fitness-club-1469d.web.app/" className="project__btn">View Details</a>
+                     <a href=" https://fitness-club-1469d.web.app/" className="project__btn">Live Site</a>
+                     <br/>
+                     <a href=" https://github.com/NISHE-SHOHA/health-care" className="project__btn">Source Code</a>
                      </div>
                  </div>
              </div>

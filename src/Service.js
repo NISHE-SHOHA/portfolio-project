@@ -3,18 +3,13 @@ import "./Service.css";
 
 function Service() {
   return (
-    <div className="service component__space" id="Services">
-
+    <div className="service component__space col-lg-4 col-md-6 col-sm-12 " id="Services">
       <div className="heading">
-        <h1 className="heading">My Service</h1>
+        <h1 className="heading">What I Do</h1>
         <p className="heading p__color">
-          There are many variations of passages of Lorem Ipsum available,
-        </p>
-        <p className="heading p__color">
-          but the majority have suffered alteration.
+          CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK
         </p>
       </div>
-
       <div className="container">
         <div className="row">
           <div className="col__3">
@@ -38,12 +33,11 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Website Development</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                Develop highly interactive 
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                Front end / User Interfaces for your web and mobile applications
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
               </div>
             </div>
           </div>
@@ -70,12 +64,11 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Responsive Website</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                Integration of third party services 
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                such as Firebase/ AWS / Digital Ocean
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
               </div>
             </div>
           </div>
@@ -101,14 +94,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Marketing & Reporting</h1>
+                <h1 className="service__text">UI/UX Design
+</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                Complex quantitative modelling 
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                for dynamic forecasting and time series analysis
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
               </div>
             </div>
           </div>

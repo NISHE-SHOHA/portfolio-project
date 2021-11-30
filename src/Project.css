@@ -24,10 +24,10 @@ img.project__img::after{
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #f9004d;
+    background-color: #ce1452;
     border-radius: 10px;
     transition: .4s;
-    opacity: .3;
+    opacity: .8;
     display: none;
 }
 .project__box:hover .mask__effect{
@@ -67,7 +67,7 @@ a.project__btn {
     transition: .4s ease;
 }
 a.project__btn:hover{
-    background-color: #f9004d;
+    background-color: #0f0f0f;
     border: 2px solid #f9004d;
 }
 button.btn {

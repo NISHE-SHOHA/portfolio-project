@@ -26,10 +26,10 @@ function Home() {
                 <li className="nav__items mx__15">About</li>
               </a>
               <a href="#Services">
-                <li className="nav__items mx__15">Services</li>
+                <li className="nav__items mx__15">Skills</li>
               </a>
               <a href="#Portfolio">
-                <li className="nav__items mx__15">Project</li>
+                <li className="nav__items mx__15">Projects</li>
               </a>
               <a href="#Blog">
                 <li className="nav__items mx__15">Blog</li>
@@ -65,10 +65,10 @@ function Home() {
               <a href="#about">About</a>
             </li>
             <li className="sideNavbar">
-              <a href="#services">Services</a>
+              <a href="#services">Skills</a>
             </li>
             <li className="sideNavbar">
-              <a href="#portfolio">Project</a>
+              <a href="#portfolio">Projects</a>
             </li>
             <li className="sideNavbar">
               <a href="#blog">Blog</a>
@@ -89,7 +89,7 @@ function Home() {
               <h3 className="home__text sweet pz__10">Junior Web Developer.</h3>
               <div className="about__button d__flex align__items__center">
                 <a href="https://drive.google.com/file/d/1QNZ04req3_arlCtWkHxxHtXNyFnEHxcQ/view?usp=sharing">
-                  <button className="about btn pointer pe-5">See Resume</button>
+                  <button className="about btn pointer pb-5">See Resume</button>
                 </a>
                 <a href="https://www.linkedin.com/in/nazmakhatunnishe/">
                 <button className="about btn pointer">Hire Me</button>

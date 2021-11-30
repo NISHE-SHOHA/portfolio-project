@@ -13,6 +13,7 @@ p.heading.p__color {
 .service__box {
     border-radius: 10px;
     width: 100%;
+    
     background-color: #60b6c5;
     padding: 55px;
     transition: .4s ease;

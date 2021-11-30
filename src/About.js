@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import aboutImg from "./img/aboutpic.jpg";
+import aboutImg from "./img/about2.jpg";
 function About() {
   //  Up To Top Btn
     window.addEventListener("scroll", function(){
@@ -17,9 +17,6 @@ function About() {
             <div className="about__meta">
               <p className="about__text p__color">
               I am Passionate about all things Web Developing. I work hard. I care about writing clean code and I genuinely love to learn. I'm currently looking for the right opportunity to work In an environment that will help me progress into a Full Stack developer.
-              </p>
-              <p className="about__text p__color">
-                I am a Mernstack developer. I work with JavaScript. Insha Allah, my codes are clear and visible and some of them are unique. Alhamdulillah, I have a small bed and a fairly large project. There are more projects, especially on the Marn project. In the future I want to work as a better and creative developer ...!
               </p>
               <p className="about__text p__color">
                I work with JavaScript. Insha Allah, my codes are clear and visible and some of them are unique. Alhamdulillah, I have a small bed and a fairly large project. There are more projects, especially on the Marn project. In the future I want to work as a better and creative developer ...!
